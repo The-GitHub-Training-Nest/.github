@@ -15,6 +15,38 @@ The official documentation can be difficult for beginners to use and interpret. 
 
 That's great! We welcome all sorts of contributions from raising issues, starting discussions, adding documentation, making pull requests and so much more! Check the contributing guidelines in each repository for guidance on how to get started.
 
-## Want to join the community?
 
-You can join the AccessibleForAll community by raising an [issue here](https://github.com/Nest/Support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization).
+### GitHub Organisation
+
+- If you want you can raise an [issue to join the Nest GitHub organisation](https://github.com/The-GitHub-Training-Nest/Support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) and we will invite you as soon as possible.
+
+
+# Alphaisans
+
+<p align="center">
+  <img src="https://github.com/Alphasians/.github/blob/main/assets/Alphasians.png" height="200" width="200">
+  <br>
+  
+  <a href="https://github.com/alphasians" alt="Alphasians contributors">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/alphasians/aina-reglia"></a>
+
+  <a href="https://discord.gg/bTUVVq83BB" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-@layer5.svg?logo=Discord" /></a>
+  
+  <a href="https://twitter.com/alphasians" alt="Follow alphasians on Twitter">
+    <img src="https://img.shields.io/twitter/follow/alphasians?label=alphasians&style=social" /></a>
+
+</p>
+<h4>
+  Welcome to Alphasians!
+  Alphasians is an Open Source community aimed at encouraging and promoting communication, best practices and technical expertise in an inclusive and welcoming environment.
+</h4>
+
+### Discord 
+- Everything here is related to our [Discord server](https://discord.gg/bTUVVq83BB), so you should definitely head over there too!
+
+
+
+<!-- readme: contributors -start -->
+
+<!-- readme: contributors -end -->
